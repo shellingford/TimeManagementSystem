@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: TimeManagementSystem
+server:
+  port: 8091

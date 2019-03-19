@@ -1,0 +1,11 @@
+.addNewButton {
+    margin-right: 20px!important;
+}
+
+.duringPreferredTime {
+    background-color: #c43e3e;
+}
+
+.notDuringPreferredTime {
+    background-color: #46c46e;
+}
